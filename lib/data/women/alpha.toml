@@ -1,0 +1,21 @@
+title = "women alpha values-2020"
+
+# Stores the default alpha values for each round
+[default_alpha]
+1 = 0.825
+2 = 0.889
+3 = 0.857
+4 = 0.551
+5 = 0.896
+6 = 0.993
+
+# Stores the alpha values for the higher seed of each matchup in the first round.
+[r1_alpha]
+1 = 1.82
+2 = 2.20
+3 = 2.20
+4 = 2.57
+5 = 1.59
+6 = 1.45
+7 = 1.91
+8 = -1.12

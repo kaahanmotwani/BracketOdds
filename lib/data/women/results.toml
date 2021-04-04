@@ -1,0 +1,2 @@
+bitstring = "000000000000000000000000000000000000000000000000000000000000000" #Ignore the last bit when entering results into the bitstring
+round = 0

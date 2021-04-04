@@ -1,0 +1,71 @@
+title = "sample data-2020"
+
+# actual occurences by seed for round 4
+[4]
+1 = 97
+2 = 66
+3 = 34
+4 = 21
+5 = 9
+6 = 14
+7 = 10
+8 = 8
+9 = 4
+10 = 8
+11 = 8
+12 = 1
+13 = 0
+14 = 0
+15 = 0
+16 = 0
+
+# actual occurences by seed for round 5
+[5]
+1 = 57
+2 = 29
+3 = 17
+4 = 13
+5 = 7
+6 = 3
+7 = 3
+8 = 5
+9 = 1
+10 = 1
+11 = 4
+12 = 0
+13 = 0
+14 = 0
+15 = 0
+16 = 0
+
+# actual occurences by seed for round 6
+[6]
+1 = 34
+2 = 13
+3 = 11
+4 = 3
+5 = 3
+6 = 2
+7 = 1
+8 = 3
+9 = 0
+10 = 0
+11 = 0
+12 = 0
+13 = 0
+14 = 0
+15 = 0
+16 = 0
+
+# Adjusted probability for each seed based on minimizing truncated
+# geometric chi-sq. value.
+# Each pair of elements in the value represents the adjusted count and the 
+# adjusted probability.
+[F4_A]
+11 = [3.0, 0.026]
+
+# Adjusted probability for each seed based on minimizing truncated
+# geometric chi-sq. value.
+[E_8]
+1 = [45.0, 0.36]
+11 = [3.0, 0.04]

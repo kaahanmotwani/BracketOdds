@@ -1,0 +1,12 @@
+title = "Bracket Odds Configuration"
+
+[owner]
+name = "Bracket Odds UIUC"
+
+[database]
+host = "localhost"
+username = "bracketo_client"
+password = "M@rchM@dn355"
+name = "bracketo_marchmadness"
+table = "Bracket"
+

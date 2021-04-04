@@ -1,0 +1,81 @@
+title = "matchups by region-2020"
+
+# NOTE: the regions must be in the following order:
+# upper left, lower left, upper right, lower right
+regions = ["Midwest", "West", "East", "South"]
+
+# Midwest Region
+[0]
+1 = "Baylor"
+2 = "FL State"
+3 = "Seton Hall"
+4 = "Louisville"
+5 = "Auburn"
+6 = "Iowa"
+7 = "Illinois"
+8 = "Providence"
+9 = "USC"
+10 = "TX Tech"
+11 = "E. Tenn. St."
+12 = "SF Austin"
+13 = "NM State"
+14 = "Hofstra"
+15 = "Arkansas LR"
+16 = "Play-In G3"
+
+# West Region
+[1]
+1 = "Gonzaga"
+2 = "Villanova"
+3 = "Michigan"
+4 = "Oregon"
+5 = "Butler"
+6 = "W. Virginia"
+7 = "Houston"
+8 = "St. Mary's"
+9 = "Florida"
+10 = "AZ State"
+11 = "Play-In G1"
+12 = "Yale"
+13 = "Vermont"
+14 = "Bradley"
+15 = "ND State"
+16 = "Boston U"
+
+# East Region
+[2]
+1 = "Kansas"
+2 = "SD State"
+3 = "Duke"
+4 = "Kentucky"
+5 = "OH State"
+6 = "Penn. St."
+7 = "Virginia"
+8 = "Colorado"
+9 = "Marquette"
+10 = "Oklahoma"
+11 = "UT State"
+12 = "Cincinnati"
+13 = "Akron"
+14 = "Belmont"
+15 = "E. Wash"
+16 = "Winthrop"
+
+# South Region
+[3]
+1 = "Dayton"
+2 = "Creighton"
+3 = "Maryland"
+4 = "Wisconsin"
+5 = "BYU"
+6 = "Michigan"
+7 = "Arizona"
+8 = "LSU"
+9 = "Rutgers"
+10 = "Indiana"
+11 = "Play-In G2"
+12 = "Liberty"
+13 = "North Texas"
+14 = "UC Irvine"
+15 = "N. Kentucky"
+16 = "Play-In G4"
